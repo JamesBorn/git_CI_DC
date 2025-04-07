@@ -1,0 +1,1 @@
+mlflow models serve -m "models:/IrisClassifier/1" --port 5001
